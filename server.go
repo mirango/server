@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/wlMalk/mirango/framework"
+	"github.com/mirango/framework"
 
 	"golang.org/x/net/netutil"
 )
